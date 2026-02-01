@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="lading page" src="https://www.figma.com/design/KHdEOdFqm3Mwk7dCHoARNV/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=1437-191&t=gq7QsShr4Y4iH7yW-1" width="100%">
+  <img alt="lading page" src=".github/preview.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+Criação de lading page!
 
 ## 🔖 Layout
 
