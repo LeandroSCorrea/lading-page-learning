@@ -34,14 +34,16 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
+  padding: 0 24px;
 }
 
 /* Profile */
 #profile {
   text-align: center;
-  padding: 16px 24px;
+  padding: 24px;
 }
 
 #profile img {
